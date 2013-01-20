@@ -13,7 +13,7 @@ object build extends Build {
     Seq(
       libraryDependencies ++= Seq(
         ),
-      version := "0.0.1-SNAPSHOT"
+      version := "0.0.1"
     ): _*
   )
 
